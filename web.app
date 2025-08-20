@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.write("สวัสดี กนกวรรธน์")
+st.write("สวัสดี กนกวรรธน์ ไอซีที")
 
 df = pd.DataFrame({
   'First Column':  [1, 2, 3, 4],
