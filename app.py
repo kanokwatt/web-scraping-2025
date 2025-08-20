@@ -10,3 +10,6 @@ from sklearn.preprocessing import MinMaxScaler
 
 iris = pd.read_csv("IRIS.csv")
 x = iris.iloc[:, [0, 1, 2, 3]].values
+
+st.write("Hello, ชาวโลก")
+st.write(x)
